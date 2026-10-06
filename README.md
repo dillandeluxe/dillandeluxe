@@ -3,10 +3,11 @@
 # Dillan Marquin Ycoy
 
 <a href="https://ycoydillan.vercel.app">
-  <img src="assets/terminal-hero.svg" alt="Dillan Marquin Ycoy Terminal" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1200&color=10B981&center=true&vCenter=true&width=650&height=36&lines=Full-Stack+%26+Mobile+Developer;Distributed+Systems+%26+Cloud+Architecture;Spring+Boot+%C2%B7+FastAPI+%C2%B7+Next.js+%C2%B7+Kotlin+Compose;Available+for+Internship+%C2%B7+2027" alt="Dillan Ycoy Tech Specializations" />
 </a>
 
-<br />
+<p><em>4th-Year BSIT at Cebu Institute of Technology – University (CIT-U) · Cebu City, Philippines</em></p>
+
 <br />
 
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-ycoydillan.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ycoydillan.vercel.app)
