@@ -1,9 +1,12 @@
 <div align="center">
 
 # Dillan Marquin Ycoy
-**Full-Stack & Mobile Developer · Distributed Systems & Cloud Architecture**  
-*4th-Year BSIT at Cebu Institute of Technology – University (CIT-U) · Cebu City, Philippines*
 
+<a href="https://ycoydillan.vercel.app">
+  <img src="assets/terminal-hero.svg" alt="Dillan Marquin Ycoy Terminal" width="100%" />
+</a>
+
+<br />
 <br />
 
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-ycoydillan.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ycoydillan.vercel.app)
