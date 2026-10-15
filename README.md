@@ -2,38 +2,22 @@
 
 # Dillan Marquin Ycoy
 
-<a href="https://ycoydillan.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1200&color=10B981&center=true&vCenter=true&width=650&height=36&lines=Full-Stack+%26+Mobile+Developer;Distributed+Systems+%26+Cloud+Architecture;Spring+Boot+%C2%B7+FastAPI+%C2%B7+Next.js+%C2%B7+Kotlin+Compose;Available+for+Internship+%C2%B7+2027" alt="Dillan Ycoy Tech Specializations" />
-</a>
+**Full-Stack & Mobile Developer** · BSIT at Cebu Institute of Technology – University  
+Cebu City, Philippines · *Available for Internship (2027)*
 
-<p><em>4th-Year BSIT at Cebu Institute of Technology – University (CIT-U) · Cebu City, Philippines</em></p>
-
-<br />
-
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-ycoydillan.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ycoydillan.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dillan--ycoy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dillan-ycoy-158661441/)
-[![GitHub](https://img.shields.io/badge/GitHub-dillandeluxe-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dillandeluxe)
-[![Email](https://img.shields.io/badge/Email-ycoydillan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ycoydillan@gmail.com)
-[![Status](https://img.shields.io/badge/Status-Available_for_Internship_·_2027-10b981?style=for-the-badge)](https://ycoydillan.vercel.app)
-
-<br />
-
----
-
-### 🚀 [Visit The Live Interactive Portfolio Website → ycoydillan.vercel.app](https://ycoydillan.vercel.app)
-
-*Explore real-time distributed architecture simulators, an 8-bit retro arcade life story engine, live API telemetry streams, and production-tested systems engineering.*
-
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-ycoydillan.vercel.app-10b981?style=flat-square&logo=vercel&logoColor=white)](https://ycoydillan.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dillan--ycoy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dillan-ycoy-158661441/)
+[![GitHub](https://img.shields.io/badge/GitHub-dillandeluxe-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/dillandeluxe)
+[![Email](https://img.shields.io/badge/Email-ycoydillan%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ycoydillan@gmail.com)
 
 </div>
 
-<br />
+---
 
-## 📬 Contact & Links
+### About Me
 
-* 🌐 **Portfolio Website:** [ycoydillan.vercel.app](https://ycoydillan.vercel.app)
-* 💼 **LinkedIn Profile:** [linkedin.com/in/dillan-ycoy-158661441](https://www.linkedin.com/in/dillan-ycoy-158661441/)
-* 🐙 **GitHub Profile:** [github.com/dillandeluxe](https://github.com/dillandeluxe)
-* ✉️ **Email:** [ycoydillan@gmail.com](mailto:ycoydillan@gmail.com)
-* 📍 **Location:** Cebu City, Philippines
+I focus on building distributed backend architectures, scalable APIs, and modern cross-platform mobile applications. My core stack centers on **Spring Boot**, **FastAPI**, **Next.js**, and **Kotlin Compose**.
+
+- 🌐 **Interactive Portfolio:** [ycoydillan.vercel.app](https://ycoydillan.vercel.app) — showcases live systems simulations, telemetry streams, and project demos.
+- 🛠️ **Current Focus:** Microservices design patterns, event-driven systems, and cloud deployment pipelines.
+- 📩 **Get in Touch:** Reach out via [LinkedIn](https://www.linkedin.com/in/dillan-ycoy-158661441/) or [Email](mailto:ycoydillan@gmail.com).
