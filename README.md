@@ -8,11 +8,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1200&color=C8102E&center=true&vCenter=true&width=650&height=40&lines=Full-Stack+%26+Mobile+Developer;Spring+Boot+%C2%B7+FastAPI+%C2%B7+Next.js+%C2%B7+Kotlin;Open+to+Internships+%C2%B7+2027" alt="typing" />
 </a>
 
-4th-Year BSIT · CIT-U · Cebu City, PH
+🎓 **4th-Year BSIT** @ CIT-U &nbsp;·&nbsp; 📍 Cebu City, PH
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-C8102E?style=for-the-badge&logo=vercel&logoColor=white)](https://ycoydillan.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dillan-ycoy-158661441/)
-[![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ycoydillan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0M4MTAyRSI+PGNpcmNsZSBjeD0iNSIgY3k9IjQuNiIgcj0iMi4zIi8+PHJlY3QgeD0iMi45IiB5PSI4LjUiIHdpZHRoPSI0LjIiIGhlaWdodD0iMTIuNSIvPjxwYXRoIGQ9Ik05LjUgOC41aDR2MS44Yy42LTEuMSAyLTIuMSA0LTIuMSAzLjkgMCA0LjYgMi41IDQuNiA1LjhWMjFoLTQuMXYtNi4xYzAtMS41IDAtMy4zLTItMy4zcy0yLjQgMS42LTIuNCAzLjJWMjFIOS41eiIvPjwvc3ZnPg==)](https://www.linkedin.com/in/dillan-ycoy-158661441/)
+[![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=C8102E)](mailto:ycoydillan@gmail.com)
 
 <br/>
 
