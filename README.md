@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/muzan-arrival.gif" width="100%" alt="Muzan Kibutsuji" />
+<img src="./assets/muzan-banner.gif" width="100%" alt="Muzan Kibutsuji" />
 
 # Dillan Marquin Ycoy
 
