@@ -19,6 +19,8 @@
 ### Overview
 
 Full-stack and mobile engineer building scalable web services, distributed systems, and native mobile apps. Check out my live interactive architecture demos and telemetry streams at **[ycoydillan.vercel.app](https://ycoydillan.vercel.app)**.
-![Git](https://shields.io)
-![GitHub](https://shields.io)
+
+
+
+
 
