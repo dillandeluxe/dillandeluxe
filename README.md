@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/muzan-banner.gif" width="100%" alt="banner" />
+<img src="./assets/banner.gif" width="100%" alt="banner" />
 
 # Dillan Marquin Ycoy
 
