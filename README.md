@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/muzan-arrival.gif" width="100%" alt="Muzan Kibutsuji" />
+
 # Dillan Marquin Ycoy
 
 <a href="https://ycoydillan.vercel.app">
