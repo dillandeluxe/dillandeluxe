@@ -21,8 +21,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=dillandeluxe&label=Profile+Views&color=C8102E&style=flat-square" alt="profile views" />
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:C8102E&height=100&section=footer" width="100%" />
 
 </div>
